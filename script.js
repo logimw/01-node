@@ -1,1 +1,3 @@
-console.log("test test");
+const add = require("./add");
+
+console.log(add);
